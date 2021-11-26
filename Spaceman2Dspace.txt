@@ -1,13 +1,34 @@
-[bs] Title: Big space man in space 2D catching shit
+[TM] Title: 
+Big Space Man in Space In 2D Catching Shit
 
+<<<<<<< HEAD
 [bs]Elevator pitch:
 Fun 2D game for all the family! Stop aliens from getting into Earth meaning while letting the harmless refugees from the space war seek asylum on Earth. The fate of Earth is in your hands! 
+[TM]One astronaut must risk his life protecting the earth by capturing the villainous aliens and allow the helpless refugees to seek refuge on earth. In a 2D Plain of space as the attackers float and fly 
+toward you wrangle the up with your high tec defensive device.
 
 [bs]30 second gameplay description:
 Strafe side to side trying to catch the evil aliens from invading earth. Let enough of them through and their plans of destroying our world will happen! Catch falling stars to level up your character to help you along the way, but beware, meteorites may fall down on you too! 
+[TM]Move side to side guarding the earth by not allowing evil aliens through but at the same time allowing other fleeing astronaut by to safety
 
 [bs]Pillars:
 Amazing soundtrack, exploring space, saving the world, challenging, 
+[TM]Saving the world
+Phenominal Soundtrack
+Challenges The Player
+Exciting Visuals
 
 [bs]Features:
 Cosmetics, Unlock new spaceships, space combat
+[TM]
+Coametic changes and upgrades to the character available to the player.
+Made for all ages.
+Challenge Modes.
+=======
+
+
+
+
+
+
+>>>>>>> main
