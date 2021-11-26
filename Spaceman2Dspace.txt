@@ -8,21 +8,13 @@ toward you wrangle the up with your high tec defensive device.
 [TM] 30 Second Gameplay Description:
 Move side to side guarding the earth by not allowing evil aliens through but at the same time allowing other fleeing astronaut by to safety
 
+[TM] Pillars:
+Saving the world
+Phenominal Soundtrack
+Challenges The Player
+Exciting Visuals
 
-
-
-
-
-
-
-
-
-
-
-[bs] Title: Big space man in space 2D catching shit
-
-[bs]Elevator pitch:
-Fun 2D game for all the family! Stop aliens from getting into Earth meaning while letting the harmless refugees in. The fate of Earth is in your hands! 
-
-[bs]30 second gameplay description:
-Strafe side to side trying to catch the evil 
+[TM] Features:
+Coametic changes and upgrades to the character available to the player.
+Made for all ages.
+Challenge Modes.
