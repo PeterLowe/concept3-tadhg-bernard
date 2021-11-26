@@ -7,6 +7,7 @@ Fun 2D game for all the family! Stop aliens from getting into Earth meaning whil
 Strafe side to side trying to catch the evil aliens from invading earth. Let enough of them through and their plans of destroying our world will happen! Catch falling stars to level up your character to help you along the way, but beware, meteorites may fall down on you too! 
 
 [bs]Pillars:
-Amazing soundtrack, exploring space, saving the world, 
+Amazing soundtrack, exploring space, saving the world, challenging, 
 
-[bs]
+[bs]Features:
+Cosmetics, Unlock new spaceships, space combat
